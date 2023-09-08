@@ -1,2 +1,4 @@
-# Game-Theory-Social-Incentive-Mechanism
-Developing an incentive system is crucial in the context of fields such as mobile crowdsensing to attract an ample number of participants who can effectively carry out extensive sensing tasks while maintaining a high level of quality. This is an attempt to create a game theory model using a social incentive mechanism.
+# Leveraging Social Networks to improve participation in Mobile Crowd Sensing activities
+
+Crowdsensing, also known as participatory sensing or citizen sensing, is a paradigm that involves gathering data from a large group of individuals using their mobile devices or other sensing equipment. Crowdsensing allows for the collection of vast amounts of data that can be used to improve various aspects of urban planning, transportation, healthcare, and environmental monitoring, among others. 
+
